@@ -8,7 +8,8 @@
   <name> Maven Enterprise Application</name>
   <url>http://maven.apache.org</url>
  <sonar.host.url>http://18.188.169.222:9000/</sonar.host.url> 
-   <distributionManagement>
+	
+ <!--  <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -19,7 +20,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.16.215.108:8081/jesu-repo/repository/maven-jenkins-snapshots/</url>
 	    </snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> -->
   <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
