@@ -14,12 +14,12 @@
   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>KSR Technology</name>
 	      <url>http://3.16.215.108:8081/jesu-repo/repository/maven-jenkins-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>KSR Technology</name>
 	      <url>http://3.16.215.108:8081/jesu-repo/repository/maven-jenkins-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
